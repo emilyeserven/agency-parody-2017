@@ -460,3 +460,7 @@ pre {
   height: 50vh;
   display: block;
   background-color: #eee; }
+
+.slider-text {
+  font-size: 5em;
+  padding-top: .5em; }
